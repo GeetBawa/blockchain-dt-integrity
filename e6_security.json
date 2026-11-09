@@ -1,0 +1,34 @@
+{
+  "unauthorised_anchor_attempts": 20,
+  "unauthorised_anchor_reverted": 20,
+  "forged_reanchor_succeeded": 0,
+  "tamper_still_detected_recall_after_forge_attempt": 1.0,
+  "lean_overwrite_reverted": true,
+  "conflicting_anchor_ranges_detected": 1,
+  "source_falsification_limitation": [
+    {
+      "magnitude_noise_units": 1.0,
+      "ledger_recall": 0.0,
+      "stat_recall_mean": 0.0076335877862595426,
+      "stat_recall_sd": 0.006827688480915388
+    },
+    {
+      "magnitude_noise_units": 2.0,
+      "ledger_recall": 0.0,
+      "stat_recall_mean": 0.04122137404580153,
+      "stat_recall_sd": 0.010354702264313387
+    },
+    {
+      "magnitude_noise_units": 4.0,
+      "ledger_recall": 0.0,
+      "stat_recall_mean": 0.6595419847328243,
+      "stat_recall_sd": 0.013309615094780706
+    },
+    {
+      "magnitude_noise_units": 8.0,
+      "ledger_recall": 0.0,
+      "stat_recall_mean": 0.9633587786259541,
+      "stat_recall_sd": 0.013133321018385668
+    }
+  ]
+}

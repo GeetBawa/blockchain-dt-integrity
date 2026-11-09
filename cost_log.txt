@@ -1,0 +1,7 @@
+B=100 done in 31s: full gas/anchor 128708, per record 1759
+B=50 done in 48s: full gas/anchor 120712, per record 2839
+{'T1_model_weight_tamper_detected': 1.0, 'T2_input_data_tamper_detected': 1.0, 'T3_output_tamper_detected': 1.0}
+B=20 done in 70s: full gas/anchor 114492, per record 6129
+B=10 done in 126s: full gas/anchor 112134, per record 11628
+B=5 done in 264s: full gas/anchor 110901, per record 22551
+B=1 done in 1071s: full gas/anchor 109878, per record 109878

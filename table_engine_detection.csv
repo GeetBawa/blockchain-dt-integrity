@@ -1,0 +1,4 @@
+attack,ledger_engine_detection,stat_engine_detection
+drift_mask,1.0,0.039999999999999966
+random_edits,1.0,0.9033333333333333
+replay_healthy,1.0,0.30999999999999994

@@ -1,0 +1,17 @@
+attack,method,recall,recall_sd,precision,fpr
+modify_1sigma,Merkle-on-chain,1.0,0.0,1.0,0.0
+modify_1sigma,Statistical + rules,0.0038167938931297505,0.004023254020570435,0.01358858858858857,0.00279213266486691
+modify_1sigma,Central checksum (outsider),1.0,0.0,,
+modify_1sigma,Central checksum (insider),0.0,0.0,,
+delete,Merkle-on-chain,1.0,0.0,1.0,0.0
+delete,Statistical + rules,0.9908396946564885,0.007883935564798876,0.7857279070475511,0.00273042807558808
+delete,Central checksum (outsider),1.0,0.0,,
+delete,Central checksum (insider),0.0,0.0,,
+insert,Merkle-on-chain,1.0,0.0,1.0,0.0
+insert,Statistical + rules,1.0,0.0,0.44034333876280185,0.012713805742211318
+insert,Central checksum (outsider),1.0,0.0,,
+insert,Central checksum (insider),0.0,0.0,,
+replay,Merkle-on-chain,1.0,0.0,1.0,0.0
+replay,Statistical + rules,0.02352335784257762,0.014118798406352143,0.07267566277052198,0.0027752296079253
+replay,Central checksum (outsider),1.0,0.0,,
+replay,Central checksum (insider),0.0,0.0,,

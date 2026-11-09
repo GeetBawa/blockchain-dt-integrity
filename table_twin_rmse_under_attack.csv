@@ -1,0 +1,20 @@
+attack,policy,rmse_mean,rmse_sd
+"Replay of
+healthy data",No verification,35.74777093036269,1.8105137541325804
+"Degradation
+masked (drift)",No verification,36.763299929990126,2.1597271770262823
+"Random edits
+(3 sigma)",No verification,14.921732454321347,0.26975648471171293
+"Replay of
+healthy data",Statistical detector,25.157455421767317,1.719888440617665
+"Degradation
+masked (drift)",Statistical detector,36.75064928173981,2.2933612842155138
+"Random edits
+(3 sigma)",Statistical detector,17.707601260599528,0.5474220173492875
+"Replay of
+healthy data",Ledger verification,16.984403910048577,0.5415912656504542
+"Degradation
+masked (drift)",Ledger verification,16.984403910048577,0.5415912656504542
+"Random edits
+(3 sigma)",Ledger verification,16.837393147194994,0.7432231032564685
+Clean (no attack),No verification,14.635489319875452,0.20360037695631172
